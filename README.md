@@ -27,4 +27,4 @@
 - not implemented
 
 ### GUI:
-- the Graphic UI is implemented using ** Java Swing**
+- the Graphic UI is implemented using **Java Swing**
