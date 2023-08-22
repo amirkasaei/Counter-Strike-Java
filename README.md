@@ -1,5 +1,5 @@
 # Counter-Strike-Java
-**This peoject was done or the Advanced Programming course at University of Guilan in May 2020**
+**This peoject was done or the Advanced Programming course at University of Guilan in June 2020**
 
 ## Description:
 - In this game, the objective for each player is to eliminate other players in a rectangular playground of adjustable size (n*m). The playground contains randomly placed obstacles that change with each round of the game. In the offline mode, three computer-controlled players act as enemies, spawning in random locations on the ground. </br>
