@@ -1,9 +1,9 @@
 # Counter-Strike-Java
-**This peoject was done or the Advanced Programming course at University of Guilan in June 2020**
+**This peoject was done for the Advanced Programming course at University of Guilan in June 2020**
 
 ## Description:
 - In this game, the objective for each player is to eliminate other players in a rectangular playground of adjustable size (n*m). The playground contains randomly placed obstacles that change with each round of the game. In the offline mode, three computer-controlled players act as enemies, spawning in random locations on the ground. </br>
-<div align="center"><img src="https://github.com/amirkasaei/Counter-Strike-Java/blob/main/img/game.png?raw=true"width="50%"/></div> </br >
+<div align="center"><img src="https://github.com/amirkasaei/Counter-Strike-Java/blob/main/img/game.png?raw=true"width="60%"/></div> </br >
 
 ### Players and Weapons:
 - Each player (including enemy players) starts the game or respawns with three lives. They have a gun that requires a one-second cooldown after each shot before firing again. The gun has infinite arrows with a range that can hit a player, causing 1 life to be deducted. Arrows move instantaneously and shoot in a straight path in the direction the player is facing. Arrows stop when they hit the first obstacle or player in their path.
